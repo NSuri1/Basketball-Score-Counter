@@ -2,123 +2,123 @@
 <items version="2" >
 
     <item
-        jar="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="bf6dec0808e0f121b05e00afe31024f424f0a28e">
-        <dex dex="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cd7e1e93a7a9f2573e971ef0f4e94796df8f7963/classes.dex" />
-    </item>
-    <item
-        jar="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_192c3d1b3b8991d352e4507f554b8259c6bcd155/classes.dex" />
-    </item>
-    <item
-        jar="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_d91eac80a706cdaa22ced0d09f10946e8fd8baec/classes.dex" />
-    </item>
-    <item
-        jar="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jar="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
         jumboMode="true"
         revision="24.0.2"
         sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_478ac0d824e4dd746e3588a95688dc857b22356b/classes.dex" />
+        <dex dex="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_f1d10805de1ad9b13de1bd3577f3092ee8368372/classes.dex" />
     </item>
     <item
-        jar="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jar="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c22294ed5ce5a9692fd430ee7e95a25adefa5fbf">
+        <dex dex="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_00a0c44ec529616c493f7632989770db9210e59e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_4566a7a06c81fecdeed50eb1c916d66ced231d29/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_a1e06c1ed09a45857d2f42795cc786629ef643cc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_0728b08a251b237c0bb9f10459da9941a6a3691b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_22ea296dca886b7021610d5479ef6bbffb36f54a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_3c5bc4fd259f6a364058c943a9ab26ae982657ef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
         jumboMode="true"
         revision="24.0.2"
         sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_23aea940ee08f75190547a942f353e0afbeb30a0/classes.dex" />
-    </item>
-    <item
-        jar="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_84e5fa4f0cba8e97e089a7a97606a4aafd52cd0c/classes.dex" />
-    </item>
-    <item
-        jar="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_2020cdf5681e28e47188f3e3f9c372dc693b66ed/classes.dex" />
+        <dex dex="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_07b7935d9de46252c5881cef9879278d742d83c8/classes.dex" />
     </item>
     <item
         jar="/Users/Macbook/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
         jumboMode="true"
         revision="24.0.2"
         sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_b9e2bc7b9d1fcd9dfdf2468f825f5ff74b774810/classes.dex" />
+        <dex dex="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_b9e2bc7b9d1fcd9dfdf2468f825f5ff74b774810/classes.dex" />
     </item>
     <item
-        jar="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="aad1c1ee4cc046e9a56e4056295d44c768aa8cc8">
-        <dex dex="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_32ab6cb322190270176918d7d0b3d925415ff2fa/classes.dex" />
-    </item>
-    <item
-        jar="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_3ebf299f3e5aacc720ee94e1178fac359dfd23e1/classes.dex" />
-    </item>
-    <item
-        jar="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_8e34508ec15e5f5b130a5d293c3166fafff98e92/classes.dex" />
-    </item>
-    <item
-        jar="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f2e554b91d2e2a9620a8d9879ff74b146d92c5ab/classes.dex" />
-    </item>
-    <item
-        jar="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jar="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="true"
         revision="24.0.2"
         sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_3f15aaca4e4503cec807574117b61563b603abec/classes.dex" />
+        <dex dex="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_2202851cd86389035c5435a1ce8a5c5c0059983f/classes.dex" />
     </item>
     <item
-        jar="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jar="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
         jumboMode="true"
         revision="24.0.2"
         sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_df2aecc9e18896f78239985f49e3d066b36bb12d/classes.dex" />
+        <dex dex="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_d03f9c26e27eb107fcfd9f958e1a5d2b5b578590/classes.dex" />
     </item>
     <item
-        jar="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jar="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_fe304d37a487d305265cb98003993acb176a23b9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_b25f53cc9ed2a5c652ddc5d21ce43f4688e4de7d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="cc0a559a2e70e452b4f0d50ebd8d89d8d80c4705">
+        <dex dex="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_632fcd059dcf51374895cabe0c18eccd9bbdd396/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_a6c46f29490aa79f48c34cbf42982084ca3ba82a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
         jumboMode="true"
         revision="24.0.2"
         sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_52f021feae6685f7dcecba4c3e6c08e3f5ce9578/classes.dex" />
+        <dex dex="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_bc4e9cf760b4fda3444b46bf419d65e20cf4a2cf/classes.dex" />
     </item>
     <item
-        jar="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jar="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_e921001ac203cadb9c5507dc6ed4ca6100fb7f64/classes.dex" />
-    </item>
-    <item
-        jar="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="/Users/Macbook/Desktop/Code/BasketballScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_dac83c69ac667a91ff6370722f0867f2d16b71c7/classes.dex" />
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/Macbook/Desktop/Code/Basketball-Score-Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_5733b2f1a3192a90a3fe6a0ab5089546e6a28368/classes.dex" />
     </item>
 
 </items>

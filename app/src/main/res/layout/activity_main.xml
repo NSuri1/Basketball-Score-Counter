@@ -8,7 +8,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:orientation="horizontal"
         android:layout_alignParentTop="true"
         android:layout_marginTop="70dp"
@@ -29,7 +29,7 @@
                 android:gravity="center"
                 android:layout_marginBottom="20dp"
                 android:textColor="#000000"
-                android:textSize="30sp"/>
+                android:textSize="25sp"/>
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -37,13 +37,13 @@
                 android:text="0"
                 android:gravity="center"
                 android:textColor="#000000"
-                android:textSize="25sp"
+                android:textSize="35sp"
                 android:layout_marginBottom="20dp"/>
             <Button
                 android:id="@+id/team_a_3point"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="3 Points!"
+                android:text="+3 Points!"
                 android:textAllCaps="true"
                 android:layout_marginBottom="10dp"
                 android:background="#FF9800"
@@ -54,7 +54,7 @@
                 android:id="@+id/team_a_2point"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="2 Points!"
+                android:text="+2 Points!"
                 android:textAllCaps="true"
                 android:layout_marginBottom="10dp"
                 android:background="#FF9800"
@@ -72,6 +72,10 @@
                 android:textSize="16sp"
                 android:padding="5dp"/>
         </LinearLayout>
+        <TextView
+            android:layout_width="1dp"
+            android:layout_height="320dp"
+            android:background="#757575"/>
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -85,7 +89,7 @@
                 android:text="Team B"
                 android:textAllCaps="true"
                 android:gravity="center"
-                android:textSize="30sp"
+                android:textSize="25sp"
                 android:textColor="#000000"
                 android:layout_marginBottom="20dp"/>
             <TextView
@@ -95,13 +99,13 @@
                 android:text="0"
                 android:gravity="center"
                 android:textColor="#000000"
-                android:textSize="25sp"
+                android:textSize="35sp"
                 android:layout_marginBottom="20dp"/>
             <Button
                 android:id="@+id/team_b_3point"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="3 Points!"
+                android:text="+3 Points!"
                 android:textAllCaps="true"
                 android:layout_marginBottom="10dp"
                 android:background="#FF9800"
@@ -112,7 +116,7 @@
                 android:id="@+id/team_b_2point"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="2 Points!"
+                android:text="+2 Points!"
                 android:textAllCaps="true"
                 android:layout_marginBottom="10dp"
                 android:background="#FF9800"
